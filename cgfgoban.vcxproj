@@ -126,7 +126,7 @@
       <SubSystem>Windows</SubSystem>
       <OutputFile>.\Debug\cgfgoban.exe</OutputFile>
       <AdditionalDependencies>comctl32.lib;winmm.lib;wsock32.lib;cgfthink.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>E:\Muzudho\Igo\Root_CgfGoban\cgfgoban108\cgfgoban\Debug</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>E:\Muzudho\Igo\Root_CgfGoban\cgfgoban108_kifuwarabe\Debug</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
